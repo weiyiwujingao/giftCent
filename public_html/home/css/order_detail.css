@@ -1,0 +1,83 @@
+.order_detail {
+    color: #444;
+    margin-top: 50px;
+    background: #fff;
+}
+
+.order_detail .weui-article {
+    background: #eee;
+    padding: 10px 15px
+}
+
+.order_detail .weui-flex .left {
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    overflow: hidden;
+}
+
+.order_detail .weui-flex .left img {
+    width: 80%;
+    background: #eee;
+}
+
+.order_detail .weui-flex .title {
+    font-size: 0.8rem;
+}
+
+.order_detail .weui-flex .right {
+    text-align: right;
+    padding-left: 10px;
+}
+
+.order_detail .weui-flex .right i {
+    font-style: normal;
+    font-size: 0.8rem;
+    color: #aaa;
+}
+
+.order_detail .weui-flex .right strong {
+    display: block;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.order_detail .item {
+    padding: 2px 0;
+}
+
+.order_detail .foot {
+    text-align: right;
+    padding: 10px 20px;
+    color: #64A6FF;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.order_detail .weui-cells {
+    margin-top: 0;
+}
+
+.order_detail .weui-label {
+    font-size: 1rem;
+    color: #333;
+}
+
+.order_detail .weui-cell__bd {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.get_mess {
+    background: #fff;
+}
+
+.get_mess .weui-cells {
+    margin-top: 8px;
+}
+
+.get_mess .qhbx {
+    padding: 10px 15px;
+    font-size: 0.9rem;
+    color: #666;
+}

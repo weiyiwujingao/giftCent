@@ -1,0 +1,90 @@
+.goods_detail {
+    color: #444;
+    margin-top: 50px;
+    background: #fff;
+}
+
+.head_img {
+    background: #fff;
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+.head_img img {
+    max-width: 100%;
+}
+
+.goods_cnt {
+    padding: 10px 15px 30px 15px;
+}
+
+.goods_name {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.guige dt {
+    margin-top: 10px;
+}
+
+.guige dd span {
+    margin: 0 10px;
+}
+
+.buybx {
+    padding: 25px 0;
+}
+
+.buybx .input {
+    text-align: center;
+    width: 40px;
+    display: inline-block;
+}
+
+.buybx .input input {
+    text-align: center;
+}
+
+.buybx .opetate {
+    text-align: center;
+    padding-right: 20px;
+}
+
+.buybx .icon {
+    display: inline-block;
+    padding: 0 5px;
+    border: 1px solid #eee;
+    background: #eee;
+    color: #666;
+    border-radius: 4px;
+}
+
+.gwcb {
+    margin-top: 10px;
+}
+
+.gwcb button {
+    border-radius: 0;
+    font-size: 1rem !important;
+}
+
+.gwcb .right {
+    text-align: right;
+    padding-right: 20px;
+}
+
+.detail_mess {
+    padding: 0;
+    margin-top: 20px;
+    border-top: 2px solid #eee;
+    color: #333;
+}
+
+.detail_mess .tips {
+    padding-left: 10px;
+}
+
+.detail_mess .desc img {
+    width: 100%;
+}

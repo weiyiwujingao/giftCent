@@ -1,0 +1,7 @@
+.idea
+.svnignore
+.git
+.svn
+.env
+.phpstorm.meta.php
+_ide_helper.php

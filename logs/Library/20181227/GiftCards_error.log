@@ -1,0 +1,7 @@
+[1;31m [ERROR] [2018-12-27 11:19:27]127.0.0.1|1344032 |errorMsg:login get user fail.loginInfo:{"card_sn":"0013181456","card_pass":"677105"},reason:该类型卡，暂时无法使用！,userMsg:该类型卡，暂时无法使用！,line:84[0m 
+[1;31m [ERROR] [2018-12-27 11:31:04]127.0.0.1|1344032 |errorMsg:add 激活卡 fail reason:验证码错误！,userMsg:验证码错误！,line:305[0m 
+[1;31m [ERROR] [2018-12-27 11:32:20]127.0.0.1|1344032 |errorMsg:add 激活卡 fail reason:验证码错误！,userMsg:验证码错误！,line:306[0m 
+[1;31m [ERROR] [2018-12-27 11:34:01]127.0.0.1|1344032 |errorMsg:add 激活卡 fail reason:验证码错误！,userMsg:验证码错误！,line:304[0m 
+[1;31m [ERROR] [2018-12-27 16:23:00]127.0.0.1|1344032 |errorMsg:add 激活卡 fail reason:已使用,userMsg:已使用,line:562[0m 
+[1;31m [ERROR] [2018-12-27 16:23:02]127.0.0.1|1344032 |errorMsg:add 激活卡 fail reason:已使用,userMsg:已使用,line:562[0m 
+[1;31m [ERROR] [2018-12-27 16:23:04]127.0.0.1|1344032 |errorMsg:add 激活卡 fail reason:已使用,userMsg:已使用,line:562[0m 

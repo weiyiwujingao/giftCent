@@ -1,0 +1,144 @@
+.order_menu {
+    padding-bottom: 5px;
+    font-size: 0.9rem;
+    background: #fff;
+    position: fixed;
+    top: 50px;
+    width: 100%;
+    border-bottom: 2px solid #eee;
+    height: 30px;
+    padding-top: 5px;
+    z-index: 10;
+}
+
+.order_menu .weui-flex__item {
+    position: relative;
+    text-align: center;
+    color: #666;
+}
+
+.order_menu .active {
+    color: #64A6FF;
+}
+
+.order_menu .active:after {
+    position: absolute;
+    content: '';
+    width: 50%;
+    height: 2px;
+    background: #64A6FF;
+    bottom: -5px;
+    left: 25%;
+}
+
+.order_list {
+    color: #444;
+    margin-top: 95px;
+}
+
+.order_list a{
+    color: #333;
+}
+.order_list .weui-article {
+    background: #fff;
+    margin-bottom: 5px;
+    padding: 10px 15px
+}
+
+.order_list .weui-flex .left {
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    overflow: hidden;
+}
+
+.order_list .weui-flex .left img {
+    width: 80%;
+    background: #eee;
+}
+
+.order_list .weui-flex .title {
+    font-size: 0.8rem;
+}
+
+.order_list .weui-flex .right {
+    text-align: right;
+    padding-left: 10px;
+}
+
+.order_list .weui-flex .right i {
+    font-style: normal;
+    font-size: 0.8rem;
+    color: #aaa;
+}
+
+.order_list .weui-flex .right strong {
+    display: block;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.order_list .item {
+    padding: 10px 0;
+}
+
+.order_list .foot {
+    color: #666;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+}
+
+.order_list .right {
+    color: #333;
+}
+
+.order_list .oprate_bx {
+    padding-top: 10px;
+    text-align: right;
+}
+
+.oprate_bx .refund{
+    margin-right: 20px;
+}
+.order_list .iconfont {
+    color: #64A6FF;
+}
+
+.weui-icon-search {
+    font-size: 1.2rem;
+}
+
+#searchbx {
+    position: absolute;
+    z-index: 100;
+    top: 90px;
+    background: #fff;
+    padding: 20px 10px;
+    text-align: center;
+    display: none;
+}
+
+#searchbx input {
+    text-align: center;
+    background: #eee;
+    width: 90%;
+    border-radius: 2px;
+    padding: 5px 0;
+}
+
+#searchbx .schbtn{
+    padding: 0 10px;
+}
+
+.search_bg {
+    position: fixed;
+    z-index: 90;
+    background: #333;
+    opacity: 0.7 !important;
+    filter: Alpha(opacity=70) !important;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display: none;
+}
